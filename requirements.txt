@@ -1,0 +1,6 @@
+django == 2.2.10
+pytest == 6.2.5
+pytest-django == 4.4.0
+pytest-factoryboy == 2.1.0
+djangorestframework==3.12.4
+Pillow == 8.4.0
